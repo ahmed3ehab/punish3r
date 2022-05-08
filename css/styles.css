@@ -12410,7 +12410,7 @@ span.intro {
 
 .projects a {
   /* 30px is the gutter size in magic grid */
-  width: calc(92% - -549px);
+  width: calc(92% - -800px);
   /* 49% avoids a weird single column on some wide screens */
   display: flex;
   text-decoration: none;
